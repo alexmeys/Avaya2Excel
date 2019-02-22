@@ -1,5 +1,4 @@
 #!/usr/bin/perl
-# 10/10/2012
 # av2excel.pl
 #Module version Activestate Perl: 
 #Mime-lite (3.028)
